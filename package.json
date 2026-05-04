@@ -1,7 +1,7 @@
 {
   "name": "@zakkster/lite-id",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Low-GC deterministic ID generator. A faster, seedable alternative to nanoid with shared buffer reuse.",
   "type": "module",
   "main": "LiteId.js",
@@ -16,7 +16,8 @@
   "files": [
     "LiteId.js",
     "LiteId.d.ts",
-    "README.md"
+    "README.md",
+    "llms.txt"
   ],
   "license": "MIT",
   "homepage": "https://github.com/PeshoVurtoleta/lite-id#readme",
